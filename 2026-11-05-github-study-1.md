@@ -1,13 +1,11 @@
 ---
 layout: post
-title: Sample blog post to learn markdown tips
-subtitle: There's lots to learn!
-gh-repo: daattali/beautiful-jekyll
-gh-badge: [star, fork, follow]
-tags: [test]
+title: 깃허브 공부 1일차  
+subtitle: github pages, jekyll에 관하여
+tags: [study]
 comments: true
 mathjax: true
-author: Bill Smith
+author: 광진
 ---
 
 {: .box-success}
